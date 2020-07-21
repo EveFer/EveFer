@@ -8,7 +8,7 @@ I'm Fernanda 😊
 **Talking about Personal Stuffs:**
 
 - 👩‍🦱 💻  I’m currently working on [SurtiShapp](https://github.com/kodevs-ti);
-- 👩‍💻 I Really love Database Design;
+- 👩‍💻 I Really love **Database Design** and **web development (Frontend and Backend)**;
 - 🌱 I’m currently learning GraphQL and NextJS; 
 - 💬 I really like to share my knowledge, I am happy to help ❤️;
 - </> I really love to belong to the [Kodemia Community](https://github.com/kodemia) </> 🖤;
