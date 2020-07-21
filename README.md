@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**EveFer/EveFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+I'm Fernanda 😊  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+- 👩‍🦱 💻  I’m currently working on [SurtiShapp](https://github.com/kodevs-ti);
+- 👩‍💻 I Really love Database Design;
+- 🌱 I’m currently learning GraphQL and NextJS; 
+- 💬 I really like to share my knowledge, I am happy to help ❤️;
+- </> I really love to belong to the Kodemia Community </> 🖤;
+- 🥁 I'm looking, someone who teaches me play the drums 🎼 😊;
+- ⚡️ Fun-Fact: I would wanted to play the drums, So if someone teaches me. I would be very happy 😊;
+- 📫 How to reach me: fernandapalacios.dev@gmail.com;
