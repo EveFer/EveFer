@@ -11,7 +11,7 @@ I'm Fernanda 😊
 - 👩‍💻 I Really love Database Design;
 - 🌱 I’m currently learning GraphQL and NextJS; 
 - 💬 I really like to share my knowledge, I am happy to help ❤️;
-- </> I really love to belong to the Kodemia Community </> 🖤;
+- </> I really love to belong to the [Kodemia Community](https://github.com/kodemia) </> 🖤;
 - 🥁 I'm looking, someone who teaches me play the drums 🎼 😊;
 - ⚡️ Fun-Fact: I would wanted to play the drums, So if someone teaches me. I would be very happy 😊;
 - 📫 How to reach me: fernandapalacios.dev@gmail.com;
