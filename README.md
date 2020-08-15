@@ -7,7 +7,7 @@ I'm Fernanda 😊
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 👩‍🦱 💻  I’m currently working on [SurtiShapp](https://github.com/kodevs-ti);
+- 👩‍🦱 💻  I’m currently working on [SurtiShapp](https://github.com/shurtiShapp);
 - 👩‍💻 I Really love **Database Design** and **web development (Frontend and Backend)**;
 - 🌱 I’m currently learning GraphQL and NextJS; 
 - 💬 I really like to share my knowledge, I am happy to help ❤️;
