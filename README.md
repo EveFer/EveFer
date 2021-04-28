@@ -10,7 +10,7 @@ I'm Fernanda 😊
 - 👩‍🦱 💻  I’m currently working on <a href="https://surtishapp.vercel.app/" target="_blank">SurtiShapp</a>;
 - 👩‍💻 I Really love **Database Design** and **web development (Frontend and Backend)**;
 - 🌱 I’m currently learning GraphQL and NextJS;
-- 🚀 I'm currently learning to implement **DevOps on Cloud AWS**;
+- 🚀 I'm currently learning to implement **CI/CD on Cloud AWS**;
 - 💬 I really like to share my knowledge, I am happy to help ❤️;
 - </> I really love to belong to the [Kodemia Community](https://github.com/kodemia) </> 🖤;
 - 🥁 I'm looking, someone who teaches me play the drums 🎼 😊;
