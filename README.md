@@ -7,7 +7,7 @@ I'm Fernanda 😊
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 👩‍🦱 💻  I’m currently working on <a href="https://devkoore.com/" target="_blank">DevKoore</a>;
+<!--- 👩‍🦱 💻  I’m currently working on <a href="https://devkoore.com/" target="_blank">DevKoore</a>;-->
 - 👩‍💻 I Really love **Database Design** and **web development (Frontend and Backend)**;
 - 🌱 I’m currently working with **HTML**, **CSS**, **JS**, **ReactJS**, **NextJS**, **GraphQL**, **REST API**, **MongoDB** and **PostgreSQL**;
 - 🚀 I'm currently implementing **CI/CD on Cloud AWS**;
